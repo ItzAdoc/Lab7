@@ -109,6 +109,9 @@ __4.4. ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la res
 
 __4.5. ¿Qué son los valores eficaces de voltaje y corriente?__
 
+El valor eficaz de una corriente o voltaje alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
+
+También se conoce este valor como RMS (root mean square, raíz cuadrática media). Este valor coincide con el valor cuadrático medio (raíz cuadrada del valor medio del cuadrado de la función en un período).
 
 __5. Video__
 
@@ -124,5 +127,7 @@ __6. Coclusiones__
 __7. Bibliografía__
 
 * Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
+
+* Armando Emanuel , Monografias.com. (s. f.). Boninas y Capacitores - Monografias.com. Monográfias.com. Recuperado 29 de agosto de 2021, de https://www.monografias.com/trabajos100/boninas-y-capacitores/boninas-y-capacitores.shtml
 
 * Armando Emanuel , Monografias.com. (s. f.). Boninas y Capacitores - Monografias.com. Monográfias.com. Recuperado 29 de agosto de 2021, de https://www.monografias.com/trabajos100/boninas-y-capacitores/boninas-y-capacitores.shtml
