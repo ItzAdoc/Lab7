@@ -130,4 +130,4 @@ __7. Bibliografía__
 
 * Armando Emanuel , Monografias.com. (s. f.). Boninas y Capacitores - Monografias.com. Monográfias.com. Recuperado 29 de agosto de 2021, de https://www.monografias.com/trabajos100/boninas-y-capacitores/boninas-y-capacitores.shtml
 
-* Armando Emanuel , Monografias.com. (s. f.). Boninas y Capacitores - Monografias.com. Monográfias.com. Recuperado 29 de agosto de 2021, de https://www.monografias.com/trabajos100/boninas-y-capacitores/boninas-y-capacitores.shtml
+* Francisco, J. (s. f.). Valores de una onda o señal alterna (senoidal) | Departamento de Electricidad-Electrónica. Departamento de Electricidad-Electrónica. Recuperado 29 de agosto de 2021, de https://cifpn1.com/electronica/?p=4113
