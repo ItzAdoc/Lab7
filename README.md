@@ -4,13 +4,19 @@ __1. Objetivos__
 
 *Objetivo General*
 
-* 
+* Entender todos los aspectos relacionados con los inductores y capacitores, así como se usa un osciloscopio.
 
 *Objetivos Específicos*
 
-* 
+* Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 
-* 
+* Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
+* Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
+* Familiarizarse con el uso de instrumentos de medida.
+
+
 
 
 __2. Marco Teórico__ 
@@ -57,7 +63,7 @@ b.	Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre 
 c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
 * Para 0 Hz.
-* 
+
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/bc.0.png)
 
 * Para 10 Hz.
