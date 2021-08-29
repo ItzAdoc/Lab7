@@ -4,7 +4,7 @@ __1. Objetivos__
 
 *Objetivo General*
 
-* Entender todos los aspectos relacionados con los inductores y capacitores, así como se usa un osciloscopio.
+* Entender todos los aspectos relacionados con los inductores y capacitores, así como los instrumentos de medida en corriente alterna.
 
 *Objetivos Específicos*
 
