@@ -97,7 +97,11 @@ __4. Respuesta a Interrogantes__
 
 __4.2. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?__
 
+Una bobina ideal en corriente continua se comporta como un cortocircuito (conductor ideal), ya que al ser i(t) constante, es decir, no varía con el tiempo, no hay autoinducción de ninguna f.e.m.
 
+Una bobina real en régimen permanente se comporta como una resistencia cuyo valor RL será el de su devanado.
+
+Los capacitores pueden conducir corriente continua durante sólo un instante (por lo cual podemos decir que los capacitores, para las señales continuas, es como un cortocircuito).
 __4.3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?__
 
 
@@ -120,3 +124,5 @@ __6. Coclusiones__
 __7. Bibliografía__
 
 * Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
+
+* Armando Emanuel , Monografias.com. (s. f.). Boninas y Capacitores - Monografias.com. Monográfias.com. Recuperado 29 de agosto de 2021, de https://www.monografias.com/trabajos100/boninas-y-capacitores/boninas-y-capacitores.shtml
