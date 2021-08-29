@@ -88,6 +88,18 @@ __4. Respuesta a Interrogantes__
 
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/Tabla.PNG)
 
+
+4.2. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+
+4.3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+
+4.4. ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+4.5. ¿Qué son los valores eficaces de voltaje y corriente?
+
+
 __5. Video__
 
 * 
