@@ -169,7 +169,9 @@ Los capacitores pueden conducir corriente continua durante sólo un instante (po
 __4.3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?__
 
 
-__4.4. ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?__
+__4.4. ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?__
+
+En el caso de las bobinas, si se usara dos bobinas de diferentes medidas probablemente el valor de la corriente y voltaje de la resistencia serían los mismos, puesto que cuando se estabilice la corriente y voltaje de los inductores/ bobinas funcionan como circuitos cerrados. Mientras que en con los capacitores sucedería algo similar, la diferencia es que cuando la corrientes y voltaje se estabiliza los capacitores funcionan como circuitos abiertos, manteniéndose los mismos valores. 
 
 __4.5. ¿Qué son los valores eficaces de voltaje y corriente?__
 
