@@ -21,7 +21,7 @@ __1. Objetivos__
 
 __2. Marco Teórico__ 
 
-* ![](https://github.com/ItzAdoc/ImaL7/blob/main/MarcoT.jpeg)
+![](https://github.com/ItzAdoc/ImaL7/blob/main/MarcoT.jpeg)
 
 
 __3. Explicación del Procedimiento__
