@@ -157,6 +157,10 @@ __4. Respuesta a Interrogantes__
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/Tabla.PNG)
 
 
+* Circuito 2
+![](https://github.com/ItzAdoc/ImaL7/blob/main/t2.jpg)
+
+
 __4.2. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?__
 
 Una bobina ideal en corriente continua se comporta como un cortocircuito (conductor ideal), ya que al ser i(t) constante, es decir, no varía con el tiempo, no hay autoinducción de ninguna f.e.m.
