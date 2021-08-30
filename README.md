@@ -21,7 +21,7 @@ __1. Objetivos__
 
 __2. Marco Teórico__ 
 
-
+* ![](https://github.com/ItzAdoc/ImaL7/blob/main/MarcoT.jpeg)
 
 
 __3. Explicación del Procedimiento__
@@ -85,10 +85,6 @@ c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 * Para 1000 Hz.
 
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/bc.1000.png)
-
-
-
-
 
 
 __2. Construya el circuito mostrado en la figura 2__
