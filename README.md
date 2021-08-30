@@ -90,19 +90,25 @@ c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 __2. Construya el circuito mostrado en la figura 2__
 
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/f2.jpg)
+![](https://github.com/ItzAdoc/ImaL7/blob/main/f2.1.jpg)
 
 * Para 0 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/hz0.jpg)
 
 * Para 10 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/hz10.jpg)
 
 * Para 50 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/hz50.jpg)
 
 * Para 100 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/hz100.jpg)
 
 * Para 500 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/hz500.jpg)
 
 * Para 1000 Hz.
-
+![](https://github.com/ItzAdoc/ImaL7/blob/main/hz1000.jpg)
 
 __4. Respuesta a Interrogantes__
 
