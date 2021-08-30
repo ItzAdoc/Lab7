@@ -158,6 +158,9 @@ __4. Respuesta a Interrogantes__
 
 En este caso se puede apreciar que cuando mayor sea el valor de la frecuencia menor será el voltaje que entregara la fuente de alimentación ac, además se puede ver que el valor de voltaje pico que nos muestra el osciloscopio es mayor que cuando se usa el instrumento de medida (voltímetro ac).
 
+* Circuito 2
+
+![](https://github.com/ItzAdoc/ImaL7/blob/main/t2.jpg)
 
 __4.2. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?__
 
