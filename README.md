@@ -120,22 +120,29 @@ b.	Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre 
 
 c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
+
 * Para 0 Hz.
+
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/vc0.jpg)
 
 * Para 10 Hz.
+
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/vc10.jpg)
 
 * Para 50 Hz.
+
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/vc50.jpg)
 
 * Para 100 Hz.
+
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/vc100.jpg)
 
 * Para 500 Hz.
+
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/vc500.jpg)
 
 * Para 1000 Hz.
+
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/cv1000.jpg)
 
 
