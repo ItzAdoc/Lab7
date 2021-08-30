@@ -87,10 +87,16 @@ c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/bc.1000.png)
 
 
+
+
+
+
 __2. Construya el circuito mostrado en la figura 2__
 
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/f2.jpg)
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/f2.1.jpg)
+
+a.	Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
 * Para 0 Hz.
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/hz0.jpg)
@@ -109,6 +115,31 @@ __2. Construya el circuito mostrado en la figura 2__
 
 * Para 1000 Hz.
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/hz1000.jpg)
+
+b.	Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+* Para 0 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/vc0.jpg)
+
+* Para 10 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/vc10.jpg)
+
+* Para 50 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/vc50.jpg)
+
+* Para 100 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/vc100.jpg)
+
+* Para 500 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/vc500.jpg)
+
+* Para 1000 Hz.
+![](https://github.com/ItzAdoc/ImaL7/blob/main/cv1000.jpg)
+
+
+
 
 __4. Respuesta a Interrogantes__
 
