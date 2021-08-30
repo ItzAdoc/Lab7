@@ -89,6 +89,21 @@ c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 __2. Construya el circuito mostrado en la figura 2__
 
+![](https://github.com/ItzAdoc/ImaL7/blob/main/f2.jpg)
+
+* Para 0 Hz.
+
+* Para 10 Hz.
+
+* Para 50 Hz.
+
+* Para 100 Hz.
+
+* Para 500 Hz.
+
+* Para 1000 Hz.
+
+
 __4. Respuesta a Interrogantes__
 
 4.1. Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
