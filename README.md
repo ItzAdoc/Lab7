@@ -86,6 +86,9 @@ c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 ![](https://github.com/ItzAdoc/ImaL7/blob/main/bc.1000.png)
 
+
+__2. Construya el circuito mostrado en la figura 2__
+
 __4. Respuesta a Interrogantes__
 
 4.1. Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
